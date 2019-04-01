@@ -106,4 +106,4 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 # Terms and Conditions
 
 The application is built following the best software engineering practises, which should minimize any risk of misbehavior. 
-In the event that such events occur, the application user can not hold Olmapp viable for any loses incurred.
+In the event that such events occur, the application user can not hold Olmapp liable for any loses incurred.
