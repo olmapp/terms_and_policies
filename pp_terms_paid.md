@@ -27,6 +27,7 @@ Link to privacy policy of third party service providers used by the app
 Google Play Services https://www.google.com/policies/privacy/
 Firebase Analytics https://firebase.google.com/policies/analytics
 Crashlytics http://try.crashlytics.com/terms/privacy-policy.pdf
+Apple https://www.apple.com/legal/privacy/
 
 
 ## Log Data
@@ -107,3 +108,5 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 The application is built following the best software engineering practises, which should minimize any risk of misbehavior. 
 In the event that such events occur, the application user can not hold Olmapp liable for any loses incurred.
+
+The application or its features can be disabled by Olmapp at any time, without prior notice.
