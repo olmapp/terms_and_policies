@@ -57,9 +57,16 @@ This Service does not use these “cookies” explicitly.
 
 If you log into our Service, we will store your email. The email can be used to contact you about matters regarding the Service.
 
+
 ## Account
 
 If you log into our Service, an account will be created for you. In case you no longer wish to have such an account, contact us at q@olmapp.xyz and request an account removal.
+
+
+## Password reset
+
+If you want to reset your password, email us the request at q@olmapp.xyz from the email you used to log into the Service. If you don't have access to the email you logged into the Service with, we will not transfer any data stored in the Service to another account.
+
 
 ## Data access
 
